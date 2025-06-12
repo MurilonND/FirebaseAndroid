@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909290953779",
+    "project_id": "virtual-album",
+    "storage_bucket": "virtual-album.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909290953779:android:10741a46bf62746725d746",
+        "android_client_info": {
+          "package_name": "com.example.virtual_album"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTL63bCfurz1_kDkQ5ZKuPPGg3LUzobM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
